@@ -39,14 +39,13 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-nltk
 ```
 
 ### Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/email-spam-detection.git
+git clone https://github.com/MBilalSharif/email-spam-detection.git
 cd email-spam-detection
 ```
 
